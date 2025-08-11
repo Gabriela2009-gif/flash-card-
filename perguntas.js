@@ -1,23 +1,23 @@
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Física',
+    'O que é matéria?',
+    'Matéria é tudo o que tem massa e ocupa espaço.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Química',
+    'Quais são os tipos de reações químicas?',
+    ' Podem ser de quatro tipos: síntese, decomposição, simples troca ou dupla troca.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'O que é evolução?',
+    'A evolução é o processo de mudança nas características hereditárias das populações de organismos ao longo das gerações.'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    'qual é a base da programação?',
+    'A programação funciona a partir do pensamento lógico.'
 )
