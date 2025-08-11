@@ -18,6 +18,6 @@ criaCartao(
 )
     criaCartao(
     'Programação',
-    'qual é a base da programação?',
+    'Qual é a base da programação?',
     'A programação funciona a partir do pensamento lógico.'
 )
