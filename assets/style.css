@@ -21,7 +21,7 @@ gap: 3rem;
 
 .cartao {
 margin: 1rem 1rem;
-background-color: rgb(12, 94, 235);
+background-color: rgb(185, 50, 215);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
